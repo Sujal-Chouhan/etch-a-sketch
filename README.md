@@ -1,0 +1,1 @@
+A simple online etch-a-sketch in which you can draw with either black pixels or rainbow pixels. The grid loaded when opening the page is  16x16 however it can be changed with a simple press of a button to a maximum size of 100x100. 
